@@ -1,0 +1,14 @@
+{
+  "manifest_version": 3,
+  "name": "FormFiller AI",
+  "version": "1.0.0",
+  "description": "Detects and extracts form field information from websites.",
+  "permissions": [
+    "activeTab",
+    "scripting"
+  ],
+  "action": {
+    "default_title": "FormFiller AI",
+    "default_popup": "index.html"
+  }
+}
